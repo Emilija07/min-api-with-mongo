@@ -1,0 +1,7 @@
+1. ordner erstellen
+2. dotnet new web --name WebApi --framework net8.0
+3. WebApi ordner wechseln
+4. code .
+5. dotnet run (testen)
+6. dotnet add package MongoDB.Driver
+7. dotnet run (nach jeder änderung im code neu laufen lassen)
