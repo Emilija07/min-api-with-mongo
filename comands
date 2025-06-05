@@ -5,3 +5,4 @@
 5. dotnet run (testen)
 6. dotnet add package MongoDB.Driver
 7. dotnet run (nach jeder änderung im code neu laufen lassen)
+schick mer de comand für 2.a do ine 
